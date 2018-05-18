@@ -1,0 +1,8 @@
+[package]
+name = "map-test"
+version = "0.1.0"
+authors = ["William Speirs <wspeirs@datto.com>"]
+
+[dependencies]
+skiplist = "0.2"
+stable-skiplist = "0.1"
